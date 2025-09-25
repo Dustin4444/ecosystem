@@ -23,7 +23,7 @@
     "@eth-optimism/utils-app": "workspace:*",
     "hono": "^4.5.0",
     "zod": "^3.24.2",
-    "zod-validation-error": "^3.4.0"
+    "zod-validation-error": "^4.0.1"
   },
   "peerDependencies": {
     "pino": "^9.6.0",
