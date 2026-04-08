@@ -19,7 +19,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "hono": "^4.5.0",
+    "hono": "^4.12.12",
     "ponder": "^0.10.6",
     "viem": "^2.17.9",
     "@eth-optimism/viem": "workspace:*",
